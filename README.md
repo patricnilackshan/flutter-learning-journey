@@ -44,18 +44,17 @@ This repo is organized as a collection of projects, each in its own directory:
 1. Clone this repo:
    ```bash
    git clone https://github.com/your-username/flutter-learning-journey.git
+   ```
 
 3. Navigate to any project folder:
-
-```bash
-cd flutter-learning-journey
-```
+   ```bash
+   cd flutter-learning-journey
+   ```
 
 3. Run the app:
-
-```bash
-flutter run
-```
+   ```bash
+   flutter run
+   ```
 
 ## 🌟 Why this Repo?
 I created this repo to document my Flutter learning process.
