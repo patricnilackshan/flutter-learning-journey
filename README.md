@@ -12,7 +12,7 @@ This repo is organized as a collection of projects, each in its own directory:
 
 | Stage                          | Project Name           | Description                                   |
 |--------------------------------|------------------------|-----------------------------------------------|
-| Basic App                      | `hello_flutter`        | My first Flutter app                          |
+| Basic App                      | `flutter_basics`       | My first Flutter app                          |
 | Stateless & Stateful Widgets   | `widget_playground`    | Experiments with Stateless & Stateful widgets |
 | ToDo List App                  | `flutter_tasker`       | Simple ToDo list with add/delete features     |
 | Calculator App                 | `flutter_calculator`   | Basic calculator with UI                      |
